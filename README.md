@@ -1,10 +1,10 @@
 # Udemy Python for Finance and Algorithmic Trading
  
-You already have knowledge in python and you want to monetize and diversify your knowledge?
+**You already have knowledge in python and you want to monetize and diversify your knowledge?**
 
-You already have some trading knowledge and you want to learn about algorithmic trading?
+**You already have some trading knowledge and you want to learn about algorithmic trading?**
 
-You are simply a curious person who wants to get into this subject?
+**You are simply a curious person who wants to get into this subject?**
 
 If you answer at least one of these questions, I welcome you to this course. For beginners in python, don't panic there is a python course (small but condensed) with a quiz to be sure to master this python knowledge. 
 
