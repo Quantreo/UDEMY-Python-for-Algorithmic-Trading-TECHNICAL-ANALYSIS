@@ -3,6 +3,7 @@
  
 ### Ressources
 💰 Join our community: https://discord.gg/wXjNPAc5BH
+
 📚Read our book: https://github.com/Quantreo/Udemy-Python-for-Finance-and-Algorithmic-Trading
 
 
@@ -12,6 +13,7 @@
 ### VPS / Install Windows in your mac
 **
 **BOOT CAMP MAC:** https://www.youtube.com/watch?v=Hmm9Q-T0oTo
+
 **Parrallels Desktop**: https://www.parallels.com/fr/
 
 
