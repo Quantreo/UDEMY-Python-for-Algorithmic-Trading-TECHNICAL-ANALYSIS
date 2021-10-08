@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=Hmm9Q-T0oTo
+
 # Udemy Python for Finance and Algorithmic Trading
  
 **You already have knowledge in python and you want to monetize and diversify your knowledge?**
