@@ -80,13 +80,7 @@ Once the strategies are created, we will backtest them using python. So that we
 
 * This is not a programming course nor a trading course. It is a course in which programming is used for trading.
 
-* To avoid all possible noises the audio is done by a voice-over which allows everyone to understand perfectly the course.
-
 * This course is not created by a data scientist but by a degree in mathematics and economics specialized in Machine learning for finance.
-
-* High-quality video
-
-* The voiceover allowed to reduce considerably the time of the course so that it is dynamic and optimized
 
 * You can ask questions or read our quantitative finance articles simply by registering on our free discord forum
 
