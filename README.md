@@ -2,6 +2,21 @@ https://www.youtube.com/watch?v=Hmm9Q-T0oTo
 
 # Udemy Python for Finance and Algorithmic Trading
  
+ 
+### Ressources
+💰 Join our community: https://discord.gg/wXjNPAc5BH
+
+📚Read our book: https://github.com/Quantreo/Udemy-Python-for-Finance-and-Algorithmic-Trading
+
+
+### Readings
+
+
+### VPS / Install Windows in your mac
+
+
+
+
 **You already have knowledge in python and you want to monetize and diversify your knowledge?**
 
 **You already have some trading knowledge and you want to learn about algorithmic trading?**
