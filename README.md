@@ -22,7 +22,9 @@
 
 **Parrallels Desktop**: https://www.parallels.com/fr/
 
-
+<br>
+<br>
+<br>
 
 **You already have knowledge in python and you want to monetize and diversify your knowledge?**
 
