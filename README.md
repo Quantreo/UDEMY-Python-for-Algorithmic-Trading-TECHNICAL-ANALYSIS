@@ -1,6 +1,5 @@
 # Udemy Python for Finance and Algorithmic Trading
  
- 
 ### Ressources
 💰 Join our community: https://discord.gg/wXjNPAc5BH
 
@@ -17,11 +16,11 @@
 <br>
 
 ### VPS / Install Windows in your mac
-**
+**VPS**: 
+
 **BOOT CAMP MAC:** https://www.youtube.com/watch?v=Hmm9Q-T0oTo
 
 **Parrallels Desktop**: https://www.parallels.com/fr/
-
 
 
 
