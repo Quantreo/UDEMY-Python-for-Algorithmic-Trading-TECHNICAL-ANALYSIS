@@ -1,9 +1,9 @@
 # Udemy Python for Finance and Algorithmic Trading
  
 ### Ressources
-💰 Join our community: https://discord.gg/wXjNPAc5BH
+**💰 Join our community:** https://discord.gg/wXjNPAc5BH
 
-📚Read our book: https://www.amazon.com/gp/product/B09HG18CYL
+**📚Read our book:** https://www.amazon.com/gp/product/B09HG18CYL
 <br>
 <br>
 <br>
