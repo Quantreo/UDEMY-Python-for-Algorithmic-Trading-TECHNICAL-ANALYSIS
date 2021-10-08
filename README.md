@@ -5,6 +5,9 @@
 💰 Join our community: https://discord.gg/wXjNPAc5BH
 
 📚Read our book: https://github.com/Quantreo/Udemy-Python-for-Finance-and-Algorithmic-Trading
+<br>
+<br>
+<br>
 
 
 ### Readings
