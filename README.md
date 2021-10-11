@@ -9,14 +9,8 @@
 <br>
 
 
-### Readings
-
-<br>
-<br>
-<br>
-
 ### VPS / Install Windows in your mac
-**VPS**: 
+**VPS**: https://bit.ly/35VuWZY 
 
 **BOOT CAMP MAC:** https://www.youtube.com/watch?v=Hmm9Q-T0oTo
 
