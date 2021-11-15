@@ -16,7 +16,7 @@ BOOT CAMP MAC: https://www.youtube.com/watch?v=Hmm9Q-T0oTo
 
 Parrallels Desktop: https://www.parallels.com/fr/
 
-
+</br>
 
 **You already have knowledge in python and you want to monetize and diversify your knowledge?**
 
