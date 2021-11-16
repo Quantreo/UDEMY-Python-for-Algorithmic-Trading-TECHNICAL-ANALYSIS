@@ -37,8 +37,7 @@ class MT5:
        """ Send the orders """
 
        # Initialize the connection if there is not
-       if mt5.initialize() == False:
-           mt5.initialize()
+       mt5.initialize()
 
        # Get filling mode 
        filling_mode = mt5.symbol_info(symbol).filling_mode - 1
@@ -151,8 +150,7 @@ class MT5:
    def run(symbol, long, short, lot):
 
         # Initialize the connection if there is not
-        if mt5.initialize() == False:
-            mt5.initialize()
+        mt5.initialize()
 
         # Choose your  symbol
         print("------------------------------------------------------------------")
@@ -208,9 +206,9 @@ class MT5:
         print("------------------------------------------------------------------")
 
    def close_all_night():
+        mt5.initialize()
         result = MT5.resume()
         for i in range(len(result)):
-            before =  mt5.account_info().balance
             row = result.iloc[0+i:1+i,:]
             if row["position"][0]==0:
                 res = MT5.orders(row["symbol"][0], row["volume"][0], buy=True, id_position=row["ticket"][0])
