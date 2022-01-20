@@ -7,6 +7,7 @@
 
 <br>
 <br>
+
 ### Ressources
 
 💰 Join our community: https://discord.gg/wXjNPAc5BH
