@@ -5,7 +5,8 @@
 <br>
 🇫🇷 https://www.udemy.com/course/trading-algorithmique-avec-python-analyse-technique/?referralCode=21E302A2618B8356B244
 
- 
+<br>
+<br>
 ### Ressources
 
 💰 Join our community: https://discord.gg/wXjNPAc5BH
