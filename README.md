@@ -1,4 +1,4 @@
-# Udemy Python for Finance and Algorithmic Trading
+# Python for Finance and Algorithmic Trading
 🇬🇧 https://www.udemy.com/course/python-for-algorithmic-trading-technical-indicators/?couponCode=57145EC3845DB1E4D6EA 
 
 
